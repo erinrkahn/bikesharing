@@ -30,10 +30,10 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 > Males most frequently used bikes (108,087) for 5 minutes, while Females most frequently used bikes (34,151) for 6 minutes.
 
-###### 
+###### Use by Day and Time
 
 
-> 
+> The most frequent day and time for users was Thursday at 6 pm (44,905 bikes). Commuting hours are the most popular time.
 
 ###### 
 
