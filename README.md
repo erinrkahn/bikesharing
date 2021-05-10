@@ -44,7 +44,7 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 ###### Usertype by Weekday and Gender
 
-
+![user_gender_weekday](https://user-images.githubusercontent.com/77405273/117593107-d4df2c00-b0ef-11eb-970f-4db5768a1db1.png)
 > Customers used bikes more frequently on weekends, while Subscriber usage was higher duirng the week. 
 
 ## Summary
