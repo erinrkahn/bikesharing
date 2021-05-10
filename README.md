@@ -15,13 +15,10 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 > 81% of users are subscribers and 19% are individual customers.
 
-###### image
+###### User Gender
 
 
-> 
-
-
-> 
+> 65% of users are Male, 25% are Female and 10% are Unknown.
 
 ###### image
 
