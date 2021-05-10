@@ -22,7 +22,7 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 ###### Trip Duration
 
-
+![tripduration](https://user-images.githubusercontent.com/77405273/117593099-d1e43b80-b0ef-11eb-932c-de4a1040017f.png)
 > The most frequent trip duration was 5 minutes with 146,752 bikes being used.
 
 ###### Trip Duration Gender
