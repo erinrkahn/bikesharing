@@ -37,11 +37,9 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 ###### Use by Day and Time by Gender
 
- 
-
-
-
-
+![female_day_hour](https://user-images.githubusercontent.com/77405273/117593104-d3156880-b0ef-11eb-846c-685f259eec1f.png)
+![male_day_hour](https://user-images.githubusercontent.com/77405273/117593105-d4469580-b0ef-11eb-99c7-5aa77f76c671.png)
+![unkown_day_hour](https://user-images.githubusercontent.com/77405273/117593106-d4df2c00-b0ef-11eb-8418-f000ca90bec8.png)
 > Males and Females exhibited similar bike usage patterns, both with the most usage on Thursdays at 6 pm, while the Unknown group's usage was highest on Saturdays between 12-4 PM.
 
 ###### Usertype by Weekday and Gender
