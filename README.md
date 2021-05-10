@@ -32,7 +32,7 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 ###### Use by Day and Time
 
-
+![user_day_hour](https://user-images.githubusercontent.com/77405273/117593103-d27cd200-b0ef-11eb-9574-d50dac62f8c5.png)
 > The most frequent day and time for users was Thursday at 6 pm (44,905 bikes). Commuting hours are the most popular time.
 
 ###### Use by Day and Time by Gender
