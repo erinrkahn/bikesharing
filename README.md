@@ -55,14 +55,6 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 Males make up a majority of the user base at 65%, while females make up 25%. The subscription model is successful, with 81% of users being subscribers. Of subscribers, peak times are on weekdays during commute hours (8-9 AM and 5-6 PM). Non-subscribers peak usage is on Saturday from 12-4 PM. Almost 45,000 bikes are being used at peak times. The average trip duration is around 5-6 minutes, longer trips are minimal. 
 
-###### Section
-> 
-
-
-
-> 
-
-
-
 ### Additional Recommendations
 
+Two additional recommendations for visualizations to inform the Des Moines proposal are bike mileage related to repair cost and trip distance by day and time. 
