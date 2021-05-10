@@ -44,10 +44,10 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 > Males and Females exhibited similar bike usage patterns, both with the most usage on Thursdays at 6 pm, while the Unknown group's usage was highest on Saturdays between 12-4 PM.
 
-###### 
+###### Usertype by Weekday and Gender
 
 
-> 
+> Customers used bikes more frequently on weekends, while Subscriber usage was higher duirng the week. 
 
 ## Summary
 
