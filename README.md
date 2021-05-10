@@ -12,7 +12,7 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 ###### Usertype
 
-
+![usertype](https://user-images.githubusercontent.com/77405273/117593097-d0b30e80-b0ef-11eb-8cf1-73f74e6c2414.png)
 > 81% of users are subscribers and 19% are individual customers.
 
 ###### User Gender
