@@ -27,7 +27,7 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 
 ###### Trip Duration Gender
 
-
+![tripduration_gender](https://user-images.githubusercontent.com/77405273/117593101-d1e43b80-b0ef-11eb-8d1d-ae656fd8d99a.png)
 > Males most frequently used bikes (108,087) for 5 minutes, while Females most frequently used bikes (34,151) for 6 minutes.
 
 ###### Use by Day and Time
