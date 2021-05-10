@@ -47,6 +47,10 @@ The purpose of this analysis is to analyze bike share data from NYC in August to
 ![user_gender_weekday](https://user-images.githubusercontent.com/77405273/117593107-d4df2c00-b0ef-11eb-970f-4db5768a1db1.png)
 > Customers used bikes more frequently on weekends, while Subscriber usage was higher duirng the week. 
 
+### Please View All Visualizations on my Tableau Dashboard
+
+[link to dashboard](https://public.tableau.com/profile/erin.kahn#!/vizhome/NYC_city_biking/ChallengeStory "link to dashboard")
+
 ## Summary
 
 
